@@ -1,4 +1,6 @@
 todo:
 code
 sleep
-repeat
+eat pizza
+play
+watch tv
